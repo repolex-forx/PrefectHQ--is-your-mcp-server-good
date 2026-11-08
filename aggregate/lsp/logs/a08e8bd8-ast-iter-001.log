@@ -1,0 +1,7 @@
+[2026-11-08T02:49:44Z] === AST ITERATION 1 START | repo=PrefectHQ/is-your-mcp-server-good sha=a08e8bd8 ===
+[2026-11-08T02:49:44Z] [iter=1] PHASE START: ast repo=PrefectHQ/is-your-mcp-server-good sha=a08e8bd8
+[2026-11-08T02:49:44Z] [iter=1] Building AST aggregate chunks
+[2026-11-08T02:49:45Z] [iter=1] AST chunks built count=1 triples=7713
+[2026-11-08T02:49:45Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/a08e8bd8097fb633cf40b41a272ef15c7a35e02e/.complete
+[2026-11-08T02:49:45Z] [iter=1] PHASE END: ast elapsed_s=1 elapsed_min=0.0
+[2026-11-08T02:49:45Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
