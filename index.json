@@ -1,0 +1,11 @@
+{
+  "org": "PrefectHQ",
+  "repo": "is-your-mcp-server-good",
+  "versions": [
+    {
+      "commit": "a08e8bd8097fb633cf40b41a272ef15c7a35e02e",
+      "tag": "",
+      "parsed_at": "2026-11-08T02:51:05.260491+00:00"
+    }
+  ]
+}
