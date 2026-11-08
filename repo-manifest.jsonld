@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/PrefectHQ/is-your-mcp-server-good/commit/a08e8bd8097fb633cf40b41a272ef15c7a35e02e",
       "git:hexsha": "a08e8bd8097fb633cf40b41a272ef15c7a35e02e",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T02:51:05.260060+00:00"
     }
   ]
 }
