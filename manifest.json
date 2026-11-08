@@ -1,0 +1,27 @@
+{
+  "manifest_version": "1.0",
+  "org": "PrefectHQ",
+  "repo": "is-your-mcp-server-good",
+  "versions": [
+    {
+      "commit": "a08e8bd8097fb633cf40b41a272ef15c7a35e02e",
+      "parsed_at": "2026-11-08T02:48:47.809605+00:00",
+      "filetree": "filetree/a08e8bd8097fb633cf40b41a272ef15c7a35e02e.nq.gz",
+      "blobs": [
+        "blob/f76f3e1ccd04457bbf11cb7245bce9bd470a95ca.nq.gz",
+        "blob/e960de8248eaab51bf7753bcf98957133112c24f.nq.gz",
+        "blob/a230a78aea291ec7c0c35eefbc89b3898612a118.nq.gz",
+        "blob/1b8367795317750c7fd0f285db66a045d5584b38.nq.gz",
+        "blob/f49a4e16e68b128803cc2dcea614603632b04eac.nq.gz",
+        "blob/d79d53dd32633583592343fe37e1c7ad409bd685.nq.gz",
+        "blob/6ca89fdd67699e0f0762df2584b44258a05f2639.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/81026485e4070a1d9dba3d2d52ffb9cb4feb3adc.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
